@@ -1,0 +1,66 @@
+.row-1 {
+    background-image: url(wallpaper.jpg);
+    background-size: cover;
+    height: 400px;
+}
+.logo-text {
+    color: white;
+    font-size: 4.5rem;
+    padding-top: 6rem;
+    font-family: 'Pangolin', cursive;
+    text-shadow: 2px 5px 5px rgb(90, 0, 117);
+}
+.menu {
+    background-color: rgba(65, 0, 95, 0.301);
+}
+.row {
+    padding-top: 2rem;
+}
+.about-site {
+    background-image: url(wallpaper-8.jpg);
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.about {
+    background-color: rgba(123, 1, 153, 0.678);
+    font-size: 20px;
+}
+.text-right {
+    color: yellow;
+    font-size: 1rem;
+    text-shadow: 1px 2px 2px rgb(13, 204, 204);
+}
+body {
+    background-color: rgba(65, 0, 95, 0.301);
+    font-family: 'Kelly Slab', cursive;
+}
+.logo {
+    width: 50%;
+    text-align: center; 
+}
+.content {
+    background-color: rgba(255, 255, 255, 0.562);
+    padding: 15px;
+    font-size: 20px;
+}
+.carousel, .carousel-item {
+    height: 400px;
+    background-size: cover;
+}
+.eto {
+    border: 1px solid #eb78e3;
+    text-align: center;
+    padding: 5px;
+    width: 300px;
+}
+.about-site-carousel {
+    padding-bottom: 2rem;
+}
+.gifwallpaper {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.footer {
+    background-color: rgb(126, 16, 126);
+    border: 1px solid lightpink;
+}
