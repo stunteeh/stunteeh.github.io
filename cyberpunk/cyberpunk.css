@@ -64,3 +64,20 @@ body {
     background-color: rgb(126, 16, 126);
     margin-top: 1rem;
 }
+.btn {
+    background-color: #710392;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+.buttonn {
+    text-align: center;
+}
+html {
+    scroll-behavior: smooth;
+}
